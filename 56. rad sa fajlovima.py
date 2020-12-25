@@ -1,0 +1,1 @@
+f=open('/home/nikola/Радна површина/programiranje/python/fajl',"r")
