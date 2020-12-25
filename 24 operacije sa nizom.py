@@ -17,7 +17,7 @@ d=concatenate([a,b]) #spaja ova 2
 print(d) 
 niz1=array([1,2,3,4,5])
 niz2=niz1
-print(niz1, niz2) #iste cigre
+print(niz1, niz2) #iste cifre
 print(id(niz1), id(niz2)) #isti id 
 niz3=niz1.view()
 print(niz3, id(niz1), id(niz3))  # kopirani su oba, id je drugačiji, ali i dalje su vezani

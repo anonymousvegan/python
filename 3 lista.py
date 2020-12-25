@@ -19,7 +19,7 @@ print("druga:",drugalista)
 prvalista.clear()
 drugalista.clear()
 drugalista.append("e")
-print("prva:",prvalista) # i dalje su povezane, nisam našao način da ih otkačim.
+print("prva:",prvalista) # i dalje  povezane, sunisam našao način da ih otkačim.
 print("druga:",drugalista)
 treca=[11,12,13,14]
 cetvrta=treca.copy()

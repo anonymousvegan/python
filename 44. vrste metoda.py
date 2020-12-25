@@ -16,7 +16,7 @@ class ucenik:
     def prebivalište(cls):                                    #class metoda - argument ne  mora biti cls, valjda.
         print(cls.drzava)                                     #cls se odnosi na klasu!
     @staticmethod
-    def nebitnametoda():                                      #statična etoda
+    def nebitnametoda():                                      #statična metoda
         print("danas je divan dan")                           #metoda radi nešto nebito, nevezano za klasu i varijable.
 ucenik1=ucenik("nikola","gimnazija",4,4,5)
 print(ucenik1.prosek())

@@ -37,7 +37,7 @@ leftshift= 15 << 3
 #### 0 1 1 1 1 0 0 0          #### 120
 print(leftshift)
 #### right shift radi isto, samo u desno, stim što se vrednosti iza zareza ne računaju
-#### m >> n , broj m se pretvara u binarni  i briše mu se zadnjih n broj cigara
+#### m >> n , broj m se pretvara u binarni  i briše mu se zadnjih n broj cifara
 rightshift=10>>1 
 ####  0 0 0 0 1 0 1 0 , 0 0 0 0 
 ####  0 0 0 0 1 0 1, 0 0 0 0 0 ### 5
